@@ -20,10 +20,10 @@ Psts = Pst/(3.154e7)
 
 
 print('The time it would take for a ship to travel', d, 'light years at a speed\
- of', v, 'c as percieved by an observer is: ', Obts, 'years')
+ of', v, 'c as percieved by an observer is: ', round(Obts, 5), 'years')
 
 print('The time it would take for a ship to travel', d, 'light years at a speed\
- of', v, 'c as percieved as a passenger on the ship is: ', Psts, 'years')
+ of', v, 'c as percieved as a passenger on the ship is: ', round(Psts,5), 'years')
 
 ####################################
 #           ANSWERS
@@ -35,9 +35,9 @@ print('The time it would take for a ship to travel', d, 'light years at a speed\
 #"the speed of the ship is 0.90c"):0.90
 #Please enter the distance that the ship is traveling (in light years): 10
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.9 c 
-#as percieved by an observer is:  11.109936823316659 years
+#as percieved by an observer is:  11.10994 years
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.9 c 
-#as percieved as a passenger on the ship is:  4.84270918819586 years
+#as percieved as a passenger on the ship is:  4.84271 years
 
 
 #FOR SPEED OF 0.98c
@@ -46,9 +46,9 @@ print('The time it would take for a ship to travel', d, 'light years at a speed\
 #"the speed of the ship is 0.90c"):0.98
 #Please enter the distance that the ship is traveling (in light years): 10
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.98 c 
-#as percieved by an observer is:  10.203003205086727 years
+#as percieved by an observer is:  10.203 years
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.98 c 
-#as percieved as a passenger on the ship is:  2.0303720019639764 years
+#as percieved as a passenger on the ship is:  2.03037 years
 
 
 #FOR SPEED OF 0.999c
@@ -57,6 +57,6 @@ print('The time it would take for a ship to travel', d, 'light years at a speed\
 #"the speed of the ship is 0.90c"):0.999
 #Please enter the distance that the ship is traveling (in light years): 10
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.999 c 
-#as percieved by an observer is:  10.00895209307807 years
+#as percieved by an observer is:  10.00895 years
 #The time it would take for a ship to travel 10.0 light years at a speed of 0.999 c 
-#as percieved as a passenger on the ship is:  0.4475020277954722 years
+#as percieved as a passenger on the ship is:  0.4475 years
